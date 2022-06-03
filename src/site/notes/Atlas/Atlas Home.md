@@ -8,4 +8,3 @@ Welcome to the atlas of the world. Here you will find all manner of information 
 [[Atlas/Gabby's Gazetteer|Gabby's Gazetteer]]
 [[Atlas/Domovya/Domovya Map|Domovya Map]]
 
-/pu
